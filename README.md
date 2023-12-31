@@ -1,5 +1,7 @@
 # Python Turtorial
 
+ALL CODE PROVIDED IS IN **3.12.1 Python**.
+
 Please make sure to read all of the instructions provided here. Also keep in mind that I am still learning python and trying to make it easier for others. To see my progress, the last line in 'test.py' is my current location in learning python. THANK YOU!
 
 ### What is this?
