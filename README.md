@@ -15,7 +15,7 @@ This repository is designed for anyone who wants to learn and explore the world 
 Clone or download this repository to your computer to access all the materials.
 ### Explore the test.py file:
 
-Open the learn_python.py file using your favorite Python editor or IDE. Each section is separated by comments explaining the concepts covered.
+Open the test.py file using your favorite Python editor or IDE. Each section is separated by comments explaining the concepts covered.
 ### Experiment & Learn:
 
 Modify the code, experiment with examples, and test your understanding by running the code snippets provided.
