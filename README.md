@@ -25,5 +25,3 @@ Explore the resources folder for additional exercises, articles, and external li
 ### Contribute:
 
 Found an error, or have suggestions? Feel free to fork this repository, make changes, and create a pull request. You can also post it in issues. 
-
-## **‼️‼️PLEASE NOTE I HAVE WORKED HARD FOR THIS SO PLEASE DO NOT SELL OR USE THIS FOR COMMERCIAL USE‼️‼️**
