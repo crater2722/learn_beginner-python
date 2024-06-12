@@ -19,9 +19,3 @@ Open the test.py file using your favorite Python editor or IDE. Each section is 
 ### Experiment & Learn:
 
 Modify the code, experiment with examples, and test your understanding by running the code snippets provided.
-### Check the Resources:
-
-Explore the resources folder for additional exercises, articles, and external links to supplement your learning journey.
-### Contribute:
-
-Found an error, or have suggestions? Feel free to fork this repository, make changes, and create a pull request. You can also post it in issues. 
